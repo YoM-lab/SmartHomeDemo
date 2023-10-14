@@ -7,7 +7,6 @@
 * 硬件部分在**1.Hardware**文件夹;
 * 主要采用STM32F103C8T6、ESP12-F、I2C OLED、蜂鸣器、LED等设计；
 * PCB使用allegro17.4设计，可以作为参考。
-![](3.Docs/overview.png)
 
 ## 软件部分
 
